@@ -15,3 +15,5 @@ Horizontal Distance vs. Theta
 https://cloud.githubusercontent.com/assets/8864070/5461583/4d9ac426-853a-11e4-9e15-b411f621e0ce.png
 
 Horizontal Distance vs. initial altitude
+
+https://cloud.githubusercontent.com/assets/8864070/5461598/6b0b1056-853a-11e4-8088-2d5833e9ab0b.png
